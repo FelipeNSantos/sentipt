@@ -1,0 +1,3 @@
+more-itertools
+nltk
+unicodedata2

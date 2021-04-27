@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: sentipt
+Version: 0.0.1
+Summary: Portuguese Port for the Vader Sentiment Analysis Script
+Home-page: UNKNOWN
+Author: Felipe N Santos
+Author-email: felipesantos@philosdata.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

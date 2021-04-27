@@ -1,0 +1,9 @@
+setup.py
+sentipt/__init__.py
+sentipt/sentipt.py
+sentipt.egg-info/PKG-INFO
+sentipt.egg-info/SOURCES.txt
+sentipt.egg-info/dependency_links.txt
+sentipt.egg-info/requires.txt
+sentipt.egg-info/top_level.txt
+sentipt/lexicons/__init__.py
